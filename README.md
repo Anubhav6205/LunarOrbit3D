@@ -1,0 +1,1 @@
+EarthMoon3D is an immersive project showcasing the orbital motion of the Earth and Moon in a captivating 3D environment. Powered by Three.js and React.js, it offers a realistic experience with stunning textures and seamless navigation. Explore the wonders of our celestial neighbors with EarthMoon3D and embark on an enchanting cosmic journey.
